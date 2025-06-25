@@ -21,8 +21,8 @@ order: 4
 <br>
 
 <div>
-  <img src="/assets/img/python.png" width="150">
+  <img src="/assets/img/python.png" width="150" alt="python">
 </div>
 <div>
-    <img src="/assets/img/C++.png" width="150">
+    <img src="/assets/img/C++.png" width="150" alt="C++">
 </div>
