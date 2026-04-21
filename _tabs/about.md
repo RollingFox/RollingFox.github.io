@@ -10,12 +10,13 @@ order: 4
 <br>
 
 | 기간 | 내용 |
-| 2020.03~ | 경희대학교 컴퓨터공학과 |
+| 2020.03~ 2026.02| 경희대학교 컴퓨터공학과 |
 |2025.04|SQLD|
 
 <br>
 
-- Github: [RollingFox](https://github.com/RollingFox)
+- Github(main): [RollingFox](https://github.com/RollingFox)
+- Github(sub): [InseopSeo](https://github.com/InseopSeo)
 - Email: [seois0408@gmail.com](mailto:seois0408@gmail.com)
 
 <br>
